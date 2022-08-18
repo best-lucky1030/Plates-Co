@@ -45,6 +45,7 @@ Here are some sample baskets and expected totals to help you check your implemen
 - It's composable to update the code and sales architecture as components (`CartTable` and `ProductCard`)
 - It's easy to update status using `useState`
 - Added demo products to update(It means you can add more catalogue)
+- It was built using Next.js (TypeScript)
 
 ## Demo Link [Plates-Co](https://plates-co.vercel.app)
 - Deployed to vercel.
