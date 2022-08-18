@@ -37,8 +37,6 @@ how these are passed it up to you)
 - It has a total method that returns the total cost of the basket, taking into account the
 delivery and offer rules.
 
-Here are some sample baskets and expected totals to help you check your implementation.
-
 
 ## Sales System
 
