@@ -94,7 +94,7 @@ const Home: NextPage = () => {
     } else if (subTotal >= 50 && subTotal < 90) { // 50 <= SubTotal <90
       subTotal += 2.95
     }                           // Subtotal > 90
-    setTotalPrice(subTotal);
+    setTotalPrice(Math.floor(subTotal * 100) / 100);
   }
 
   useEffect(() => {
